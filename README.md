@@ -1,12 +1,8 @@
-# South-German-Credit-Risk-Classification
+# Credit-Risk-Classification
 
 ## Overview
 
 This is an end-to-end ML project, which aims at developing a classification model for the problem of classifying a customer profile into 2 types based on the risk factor, using a given labeled dataset.
-
-Multiple classifiers were tested and the final fclassifier used for this project is XGBoost tClassifier.
-
-Deployed in Heroku.
 
 *****************************
 
